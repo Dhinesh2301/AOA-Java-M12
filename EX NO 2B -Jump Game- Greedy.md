@@ -30,8 +30,8 @@ If it is not possible to reach the end, return -1.
 ## Program:
 ```
 /*
-Developed by: HAREESH R
-Register Number:  212223230068
+Developed by: DHINESH R
+Register Number:  212223220019
 */
 import java.util.Scanner;
 
